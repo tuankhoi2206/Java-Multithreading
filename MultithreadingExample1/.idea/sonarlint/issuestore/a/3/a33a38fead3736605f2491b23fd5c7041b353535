@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯·ª‹8¤ƒþ Æ/
+]
+java:S2274";Remove this call to "await" or move it into a "while" loop.(×œªìþÿÿÿÿ8¥ƒþ Æ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇåÊÄùÿÿÿÿ8¥ƒþ Æ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µƒ¢äüÿÿÿÿ8¦ƒþ Æ/
+{
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8®ƒþ Æ/
+{
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8±ƒþ Æ/

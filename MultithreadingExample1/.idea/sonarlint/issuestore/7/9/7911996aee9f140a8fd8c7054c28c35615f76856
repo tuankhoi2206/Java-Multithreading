@@ -1,0 +1,12 @@
+
+N
+java:S1602
+",Remove useless curly braces around statement(…ÒÑˆøÿÿÿÿ8Ìƒş Æ/
+n
+java:S1612
+"LReplace this lambda with method reference 'AtomicIntegerExample::increment'.(…ÒÑˆøÿÿÿÿ8Ìƒş Æ/
+I
+java:S1602",Remove useless curly braces around statement(¼¤³¬8Íƒş Æ/
+i
+java:S1612"LReplace this lambda with method reference 'AtomicIntegerExample::increment'.(¼¤³¬8Íƒş Æ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(òğ8Îƒş Æ/

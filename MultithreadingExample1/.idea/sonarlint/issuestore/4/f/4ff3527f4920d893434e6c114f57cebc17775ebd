@@ -1,0 +1,10 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "sb".(÷˜»¥ûÿÿÿÿ8­ËïÁ/
+[
+java:S1612"@Replace this lambda with method reference 'Course::getCategory'.(ßè’†ÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’†Úäøÿÿÿÿ8ŒÇ÷îÀ/
+I
+java:S1481"'Remove this unused "sb" local variable.(÷˜»¥ûÿÿÿÿ8»ËïÁ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎÎ’á
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¨¨

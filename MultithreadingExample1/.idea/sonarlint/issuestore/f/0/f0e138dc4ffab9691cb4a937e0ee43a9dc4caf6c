@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+V
+java:S1612,";Replace this lambda with method reference 'Book::getTitle'.(Èöèªûÿÿÿÿ
+V
+java:S1612,";Replace this lambda with method reference 'Book::getPrice'.(Èöèªûÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Èöèªûÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”

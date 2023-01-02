@@ -1,0 +1,15 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "books".(Ô¥×…þÿÿÿÿ
+E
+java:S1481"*Remove this unused "books" local variable.(Ô¥×…þÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(È–Çûÿÿÿÿ
+A
+java:S1602",Remove useless curly braces around statement(ˆˆÎ'
+Q	java:S125"<This block of commented-out lines of code should be removed.(ûôû¿
+6
+java:S2129" Remove this "Double" constructor(­¶æ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½²ÿôþÿÿÿÿ

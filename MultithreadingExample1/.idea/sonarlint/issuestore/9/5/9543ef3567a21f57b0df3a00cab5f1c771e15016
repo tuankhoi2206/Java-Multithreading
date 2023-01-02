@@ -1,0 +1,18 @@
+
+T
+java:S1854
+"9Remove this useless assignment to local variable "check".(İì»Şøÿÿÿÿ
+P
+java:S1854	":Remove this useless assignment to local variable "values".(÷öÅ
+A
+java:S1481	"+Remove this unused "values" local variable.(÷öÅ
+m
+java:S4276
+"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(İì»Şøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñÅŠœüÿÿÿÿ
+E
+java:S1481
+"*Remove this unused "check" local variable.(İì»Şøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìÜ¿Á
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…„÷Õúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£½Üßùÿÿÿÿ

@@ -1,0 +1,6 @@
+
+X
+java:S1612"=Replace this lambda with method reference 'Objects::nonNull'.(”îÕíÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÉüúÿÿÿÿÿ8ˆ¢º–¿/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢‘şà8¸Æ»–¿/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÂÙé

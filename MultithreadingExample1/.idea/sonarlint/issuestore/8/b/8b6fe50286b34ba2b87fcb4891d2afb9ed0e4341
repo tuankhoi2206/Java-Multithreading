@@ -1,0 +1,19 @@
+
+r	java:S116"VRename this field "upper_limit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ø¥8—ş Æ/
+q	java:S116"VRename this field "lower_limit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹šu8˜ş Æ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßøå„ùÿÿÿÿ8Ïş Æ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò¢Ş÷ûÿÿÿÿ8Òş Æ/
+M
+java:S2446"0"notify" may not wake up the appropriate thread.(ŒâÌ†8Ùş Æ/
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8Úş Æ/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÖË»8Ûş Æ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(°À–Íşÿÿÿÿ8Üş Æ/
+M
+java:S2446("0"notify" may not wake up the appropriate thread.(ŒâÌ†8İş Æ/
+e
+java:S2276*"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8İş Æ/
+D
+java:S2189!""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Â‚ş Æ/
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Á‚ş Æ/

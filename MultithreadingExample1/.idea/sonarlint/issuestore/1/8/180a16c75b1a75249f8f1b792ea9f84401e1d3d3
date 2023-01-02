@@ -1,0 +1,17 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îôÆêşÿÿÿÿ
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(æÈ¡“ûÿÿÿÿ8Ñ·‘Ä/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(şÅ°‚8æ¢¢‘Ä/
+R
+java:S2209+"5Change this instance-reference to a static reference.(şÅ°‚8¢”‘Ä/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(–íß€8ƒÒ£‘Ä/
+R
+java:S2209,"5Change this instance-reference to a static reference.(–íß€8Ñ·‘Ä/
+v
+java:S1104"TMake counter1 a static final constant or non-public and provide accessors if needed.(Ü³–Çüÿÿÿÿ8ÌÅ›‘Ä/
+v
+java:S1104"TMake counter2 a static final constant or non-public and provide accessors if needed.(ƒëØ—şÿÿÿÿ8ÍÅ›‘Ä/
+P
+java:S1444".Make this "public static counter1" field final(Ü³–Çüÿÿÿÿ8ÍÅ›‘Ä/
+P
+java:S1444".Make this "public static counter2" field final(ƒëØ—şÿÿÿÿ8ÍÅ›‘Ä/

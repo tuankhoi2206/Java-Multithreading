@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†®Åº8ñ•ü§ß/
+p
+java:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(œ‰…†ýÿÿÿÿ8’–ü§ß/
+o
+java:S2095
+"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(øá…ùþÿÿÿÿ8“–ü§ß/

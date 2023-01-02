@@ -1,0 +1,23 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é¡ğÕ8¦»¿şÌ/
+V
+java:S2274	":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8§»¿şÌ/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Œ²Æ×8§»¿şÌ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇóØøÿÿÿÿ8¨»¿şÌ/
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8©»¿şÌ/
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°8©»¿şÌ/
+Y
+java:S1854"7Remove this useless assignment to local variable "str".(îâ–Êşÿÿÿÿ8«»¿şÌ/
+B
+java:S2129" Remove this "String" constructor(îâ–Êşÿÿÿÿ8­»¿şÌ/
+J
+java:S1481"(Remove this unused "str" local variable.(îâ–Êşÿÿÿÿ8¯»¿şÌ/
+{
+java:S2142""^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8±»¿şÌ/
+{
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8²»¿şÌ/
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8³»¿şÌ/

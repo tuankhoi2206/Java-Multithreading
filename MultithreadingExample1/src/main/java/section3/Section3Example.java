@@ -1,5 +1,7 @@
 package section3;
 
+import java.util.LinkedList;
+
 class Runner1 implements Runnable {
    public void execute() {
       for (int i = 0; i < 10; i++) {
@@ -42,5 +44,8 @@ public class Section3Example {
       Thread thread2 = new Thread(new Runner2());
       thread1.start();
       thread2.start();
+      String name = Thread.currentThread().getName();
+      System.out.println("This is my thread " + name);
+
    }
 }

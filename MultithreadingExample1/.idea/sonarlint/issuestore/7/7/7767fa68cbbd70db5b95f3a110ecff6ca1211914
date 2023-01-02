@@ -1,0 +1,15 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "obj".(˜«•úÿÿÿÿ8Â¾şŸ¿/
+J
+java:S1481"(Remove this unused "obj" local variable.(˜«•úÿÿÿÿ8Ä¾şŸ¿/
+=
+java:S2387"""c" is the name of a field in "A".(¦À­Çùÿÿÿÿ
+8
+java:S2387"""c" is the name of a field in "A".(¡Á
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ò×¨şÿÿÿÿ8ßüŸ¿/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡ûĞª8ßüŸ¿/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ä£Öşÿÿÿÿ8ßüŸ¿/
+&
+java:S1700"Rename field "c"(¡Á
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â§‰áÿÿÿÿÿ

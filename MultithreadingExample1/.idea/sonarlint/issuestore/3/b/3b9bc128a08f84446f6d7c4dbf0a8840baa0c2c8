@@ -1,0 +1,8 @@
+
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ã¥ñ”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(“åÞþýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àÓ¨¨
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§„£Šûÿÿÿÿ

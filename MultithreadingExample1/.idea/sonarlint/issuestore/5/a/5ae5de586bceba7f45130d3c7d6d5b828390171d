@@ -1,0 +1,17 @@
+
+J
+java:S2209"5Change this instance-reference to a static reference.(ÚŒìF
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”«ãÏüÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(”«ãÏüÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”«ãÏüÿÿÿÿ8ÙÇßÎ/
+W
+java:S2209"5Change this instance-reference to a static reference.(”«ãÏüÿÿÿÿ8ÙÇßÎ/
+f
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(£±°
+j
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(åµ©üÿÿÿÿ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¨ßÇĞüÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Çü¢ üÿÿÿÿ

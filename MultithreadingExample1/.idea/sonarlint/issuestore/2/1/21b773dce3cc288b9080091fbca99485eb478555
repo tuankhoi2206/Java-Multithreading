@@ -1,0 +1,10 @@
+
+G
+java:S1602A",Remove useless curly braces around statement(ó”ÇÛúÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.util.function.BiConsumer'.(¿ÍÅøÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

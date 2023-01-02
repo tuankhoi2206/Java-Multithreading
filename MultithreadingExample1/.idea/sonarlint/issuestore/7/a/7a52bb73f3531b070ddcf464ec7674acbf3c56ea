@@ -1,0 +1,7 @@
+
+G
+java:S2201",The return value of "allMatch" must be used.(ÂıÈúÿÿÿÿ
+L
+java:S2692"10 is a valid index, but is ignored by this check.(ÂıÈúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À¹Ï®
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜êÔ¤üÿÿÿÿ
