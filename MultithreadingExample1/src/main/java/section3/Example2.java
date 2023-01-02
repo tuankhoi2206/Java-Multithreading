@@ -1,7 +1,5 @@
 package section3;
 
-import com.sun.org.apache.xalan.internal.res.XSLTErrorResources_ja;
-
 public class Example2 {
 
    private static Integer count = 0;
@@ -10,7 +8,8 @@ public class Example2 {
       count++;
    }
 
-   public static void increase_obj_level_lock() {
+   public static void increase_obj_level_lock(String threadName) {
+      System.out.println(threadName + " - " + count);
       synchronized (Example2.class) {
          count++;
       }
@@ -20,7 +19,12 @@ public class Example2 {
       Thread thread1 = new Thread(() -> {
          for (int i = 0; i < 100; i++) {
             //increase();
-            increase_obj_level_lock();
+            try {
+               Thread.sleep(500);
+            } catch (InterruptedException e) {
+               e.printStackTrace();
+            }
+            increase_obj_level_lock("Thread 1");
          }
          System.out.println("Runner 1:" + count);
       });
@@ -28,7 +32,12 @@ public class Example2 {
       Thread thread2 = new Thread(() -> {
          for (int i = 0; i < 100; i++) {
             //increase();
-            increase_obj_level_lock();
+            try {
+               Thread.sleep(500);
+            } catch (InterruptedException e) {
+               e.printStackTrace();
+            }
+            increase_obj_level_lock("Thread 2");
          }
          System.err.println("Runner 2:" + count);
       });
