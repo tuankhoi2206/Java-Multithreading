@@ -1,4 +1,2 @@
-package concurrent.executorservice.demo1;
-
-public @interface Main {
+package concurrent.executorservice.demo1;public class Main {
 }
